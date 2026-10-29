@@ -8,13 +8,19 @@ Minha experiência com o **TOTVS Protheus** e o conhecimento de rotinas de **Log
 
 **Busco oportunidades de contrato PJ contínuo com empresas brasileiras**, em backend, integrações e desenvolvimento ADVPL/Protheus.
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [KM-PIX — Integração Pix com TOTVS Protheus](https://github.com/Keven-Martins/km-pix-portfolio)
 
 Integração entre o Protheus e o Sicoob para conectar cobranças Pix ao processo de pedidos de venda. O projeto combina **backend Python/FastAPI, rotinas ADVPL, persistência de dados e portal de pagamento**.
 
 [Conheça o projeto, sua arquitetura e as decisões técnicas →](https://github.com/Keven-Martins/km-pix-portfolio)
+
+### [Orçamentos e Pedidos de Venda — ADVPL/Protheus](https://github.com/Keven-Martins/orcamento-protheus-advpl)
+
+Customização de relatórios com **ADVPL e TMSPrinter**, incluindo tratamento de unidades de medida, preços com descontos, quantidades de apresentação e informações por filial.
+
+[Conheça as regras comerciais e as melhorias desenvolvidas →](https://github.com/Keven-Martins/orcamento-protheus-advpl)
 
 ## Competências
 
